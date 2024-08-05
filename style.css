@@ -1,0 +1,46 @@
+.topnav {
+    background-color: #317f01;
+    overflow: hidden;
+}
+
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 30px;
+    font-family: 'Edu Australia VIC WA NT Hand';
+}
+.topnav a:hover {
+    background-color: #76d536;
+    color: black;
+}
+
+.topnav a.split {
+    float: right;
+    color: white;
+}
+
+.title{
+    text-align: center;
+    font-size: xx-large;
+    color: #050a02;
+}
+
+.text1{
+    text-align: center;
+    font-size: 400%;
+    color: #526b41;
+}
+
+.Grifph{
+    scale: 0.7;
+    margin-right: 20%;
+    margin-bottom: 40%;
+}
+
+.picture{
+    scale: 0.3;
+    position
+}
